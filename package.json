@@ -4,6 +4,7 @@
     "description": "Syntax of Godot, UI of Discord",
     "version": "1.0.0",
     "publisher": "Ygypt",
+    "icon": "godotdiscord.png",
     "repository": {
         "url": "https://github.com/ygypt/godot-discord-hybrid-theme"
     },
