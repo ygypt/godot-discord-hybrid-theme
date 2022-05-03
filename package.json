@@ -1,0 +1,21 @@
+{
+    "name": "godot-discord-hybrid-theme",
+    "displayName": "Godot/Discord Hybrid Theme",
+    "description": "Syntax of Godot, UI of Discord",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Godot/Discord Hybrid Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GodotDiscord Hybrid Theme-color-theme.json"
+            }
+        ]
+    }
+}
